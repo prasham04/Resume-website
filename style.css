@@ -1,0 +1,42 @@
+.header{
+    background-color: #867070;
+}
+.header .nav-pills .nav-link.active{
+    background-color: #E4D0D0;
+    color:black;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+}
+.hero{
+    background-color: #D5B4B4;
+}
+.education{
+    text-align:center;
+}
+.ei{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+}
+.ea{
+    background-color: #E4D0D0;
+}
+.feature-icon-small{
+    background-color: #867070;
+}
+.text-body-secondary{
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.skills{
+    background-color: #F5EBEB;
+}
+.sp{
+    float: left;
+}
+.contact{
+    background-color: #D5B4B4 ;
+}
